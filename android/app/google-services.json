@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452811430915",
+    "project_id": "howchat-67402",
+    "storage_bucket": "howchat-67402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452811430915:android:c6f42909c13b6c156e4236",
+        "android_client_info": {
+          "package_name": "com.SamMumin.how_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452811430915-a3ift30jlg8ivla7o3lb3mmthf7q8mub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdNx_LfkJBxh3znQYJrOuaPb4Pmh8m-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452811430915-a3ift30jlg8ivla7o3lb3mmthf7q8mub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
